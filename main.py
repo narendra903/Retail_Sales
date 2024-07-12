@@ -10,7 +10,7 @@ fake = Faker()
 # Define the parameters for the dataset
 start_date = '2024-01-01'
 end_date = '2024-07-18'
-num_records = 580  # Specify the total number of records you want to generate
+num_records = 980  # Specify the total number of records you want to generate
 transaction_ids = [f'T00{i+1}' for i in range(100)]  # Adjust the range as needed for unique transaction IDs
 customer_ids = [f'C00{i+1}' for i in range(100)]  # Adjust the range as needed for unique customer IDs
 store_ids = ['S001', 'S002', 'S003', 'S004', 'S005']
@@ -21,6 +21,10 @@ categories = [
     ('Health and Wellness', ['Vitamins', 'Supplements', 'Skincare Products', 'Haircare Products', 'Fitness Equipment', 'Yoga Accessories', 'Massage Devices', 'Health Monitors', 'Protein Powders', 'Essential Oils']),
     ('Books and Media', ['Fiction Books', 'Non-Fiction Books', 'eBooks', 'Audiobooks', 'Magazines', 'CDs', 'DVDs', 'Vinyl Records', 'Comic Books', 'Graphic Novels']),
     ('Sports and Outdoors', ['Bicycles', 'Treadmills', 'Yoga Mats', 'Dumbbells', 'Camping Gear', 'Running Shoes', 'Sports Apparel', 'Fitness Trackers', 'Water Bottles', 'Hiking Boots'])
+    ('Toys and Games', ['Board Games', 'Puzzles', 'Action Figures', 'Dolls', 'LEGO Sets', 'RC Cars', 'Video Games', 'Stuffed Animals', 'Educational Toys', 'Building Blocks']),
+    ('Automotive', ['Car Accessories', 'Motorcycle Gear', 'Car Electronics', 'Tires', 'Car Care Products', 'Motorcycle Helmets', 'Car Tools', 'Car Seats', 'Motorcycle Jackets', 'GPS Devices']),
+    ('Home and Garden', ['Furniture', 'Garden Tools', 'Outdoor Furniture', 'Indoor Plants', 'Gardening Supplies', 'Home Decor', 'Lighting', 'Bedding', 'Kitchen Tools', 'BBQ Grills'])
+
 ]
 payment_methods = ['Cash', 'Credit Card', 'Debit Card', 'Mobile Payment']
 loyalty_programs = ['Yes', 'No']
