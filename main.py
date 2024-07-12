@@ -8,9 +8,9 @@ from tqdm import tqdm
 fake = Faker()
 
 # Define the parameters for the dataset
-start_date = '2024-01-01'
+start_date = '2022-01-01'
 end_date = '2024-07-18'
-num_records = 980  # Specify the total number of records you want to generate
+num_records = 1980  # Specify the total number of records you want to generate
 transaction_ids = [f'T00{i+1}' for i in range(100)]  # Adjust the range as needed for unique transaction IDs
 customer_ids = [f'C00{i+1}' for i in range(100)]  # Adjust the range as needed for unique customer IDs
 store_ids = ['S001', 'S002', 'S003', 'S004', 'S005']
