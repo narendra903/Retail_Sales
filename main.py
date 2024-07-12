@@ -20,7 +20,7 @@ categories = [
     ('Fashion and Accessories', ['Shoes', 'Handbags', 'Sunglasses', 'Watches', 'Jackets', 'Jewelry', 'Belts', 'Hats', 'Scarves', 'Gloves']),
     ('Health and Wellness', ['Vitamins', 'Supplements', 'Skincare Products', 'Haircare Products', 'Fitness Equipment', 'Yoga Accessories', 'Massage Devices', 'Health Monitors', 'Protein Powders', 'Essential Oils']),
     ('Books and Media', ['Fiction Books', 'Non-Fiction Books', 'eBooks', 'Audiobooks', 'Magazines', 'CDs', 'DVDs', 'Vinyl Records', 'Comic Books', 'Graphic Novels']),
-    ('Sports and Outdoors', ['Bicycles', 'Treadmills', 'Yoga Mats', 'Dumbbells', 'Camping Gear', 'Running Shoes', 'Sports Apparel', 'Fitness Trackers', 'Water Bottles', 'Hiking Boots'])
+    ('Sports and Outdoors', ['Bicycles', 'Treadmills', 'Yoga Mats', 'Dumbbells', 'Camping Gear', 'Running Shoes', 'Sports Apparel', 'Fitness Trackers', 'Water Bottles', 'Hiking Boots']),
     ('Toys and Games', ['Board Games', 'Puzzles', 'Action Figures', 'Dolls', 'LEGO Sets', 'RC Cars', 'Video Games', 'Stuffed Animals', 'Educational Toys', 'Building Blocks']),
     ('Automotive', ['Car Accessories', 'Motorcycle Gear', 'Car Electronics', 'Tires', 'Car Care Products', 'Motorcycle Helmets', 'Car Tools', 'Car Seats', 'Motorcycle Jackets', 'GPS Devices']),
     ('Home and Garden', ['Furniture', 'Garden Tools', 'Outdoor Furniture', 'Indoor Plants', 'Gardening Supplies', 'Home Decor', 'Lighting', 'Bedding', 'Kitchen Tools', 'BBQ Grills'])
