@@ -9,16 +9,16 @@ from datetime import datetime, timedelta
 fake = Faker()
 
 # Define the parameters for the dataset
-start_date = '2024-01-01'
+start_date = '2021-01-01'
 end_date = '2024-07-18'
-num_records = 500  # Specify the total number of records you want to generate
+num_records = 7020  # Specify the total number of records you want to generate
 
 # Generating IDs
 transaction_ids = [f'T00{i+1}' for i in range(num_records)]
-customer_ids = [f'C00{i+1}' for i in range(100)]
+customer_ids = [f'C00{i+1}' for i in range(680)]
 store_ids = ['S001', 'S002', 'S003', 'S004', 'S005']
-product_ids = [f'P00{i+1}' for i in range(100)]
-supplier_ids = [f'SUP00{i+1}' for i in range(20)]
+product_ids = [f'P00{i+1}' for i in range(300)]
+supplier_ids = [f'SUP00{i+1}' for i in range(50)]
 
 # Categories and Subcategories
 categories = [
@@ -123,9 +123,9 @@ product_columns = ['Product ID', 'Product Name', 'Category', 'Subcategory', 'Sup
 sales_columns = ['Transaction ID', 'Date', 'Time', 'Store ID', 'Product ID', 'Quantity Sold', 'Price per Unit', 'Total Sales', 'Discount', 'Payment Method', 'Customer ID']
 
 # Generate the datasets
-customers = generate_customers(100)
+customers = generate_customers(680)
 stores = generate_stores()
-products = generate_products(100)
+products = generate_products(300)
 sales = generate_sales(num_records)
 
 # Convert to DataFrames
