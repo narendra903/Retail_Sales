@@ -15,8 +15,8 @@ num_records = 9020  # Specify the total number of records you want to generate
 
 # Generating IDs
 transaction_ids = [f'T00{i+1}' for i in range(num_records)]
-customer_ids = [f'C00{i+1}' for i in range(850)]
-store_ids = ['S001', 'S002', 'S003', 'S004', 'S005']
+customer_ids = [f'C00{i+1}' for i in range(680)]
+store_ids = ['S001', 'S002', 'S003', 'S004', 'S005', 'S006', 'S007', 'S008']
 product_ids = [f'P00{i+1}' for i in range(380)]
 supplier_ids = [f'SUP00{i+1}' for i in range(65)]
 
@@ -36,7 +36,8 @@ categories = [
 # Payment methods, loyalty programs, locations, and income levels
 payment_methods = ['Cash', 'Credit Card', 'Debit Card', 'Mobile Payment']
 loyalty_programs = ['Yes', 'No']
-locations = ['Mumbai', 'Bangalore', 'Delhi', 'Chennai', 'Hyderabad']
+locations = ['Mumbai', 'Bangalore', 'Delhi', 'Chennai', 'Hyderabad', 'Pune', 'Kolkata', 'Ahmedabad', 'Surat', 'Jaipur', 'Lucknow', 'Kanpur']
+
 income_levels = ['<25,000', '25,000-49,999', '50,000-74,999', '75,000-99,999', '100,000+']
 
 # Generate random dates between start_date and end_date
@@ -132,19 +133,36 @@ def generate_date_data(date_range):
     
     return date_data
 
+# Function to generate sales targets data
+def generate_sales_targets(start_date, end_date, stores):
+    date_range = pd.date_range(start=start_date, end=end_date, freq='M')
+    sales_targets = []
+    target_id = 1
+    for store_id in stores:
+        for date in date_range:
+            year = date.year
+            month = date.month
+            sales_target_amount = round(uniform(50000, 500000), 2)
+            sales_targets.append([f'TGT{target_id:04}', store_id, year, month, sales_target_amount])
+            target_id += 1
+
+    return sales_targets
+
 # Column names for the datasets
 customer_columns = ['Customer ID', 'Age', 'Gender', 'Name', 'Income Level', 'Location', 'Loyalty Program', 'Purchase Frequency', 'Mail ID']
 store_columns = ['Store ID', 'Store Location', 'Store Size', 'Store Manager', 'Opening Date']
 product_columns = ['Product ID', 'Product Name', 'Category', 'Subcategory', 'Supplier ID', 'Cost Price', 'Retail Price']
 sales_columns = ['Transaction ID', 'Date', 'Time', 'Store ID', 'Product ID', 'Quantity Sold', 'Price per Unit', 'Total Sales', 'Discount', 'Payment Method', 'Customer ID']
 date_columns = ['Date', 'Year', 'Month', 'Day', 'Day of Week', 'Quarter', 'Week of Year', 'Is Weekend']
+sales_target_columns = ['Target ID', 'Store ID', 'Year', 'Month', 'Sales Target Amount']
 
 # Generate the datasets
 customers = generate_customers(680)
 stores = generate_stores()
-products = generate_products(300)
+products = generate_products(380)
 sales = generate_sales(num_records)
 date_data = generate_date_data(date_range)
+sales_targets = generate_sales_targets(start_date, end_date, store_ids)
 
 # Convert to DataFrames
 df_customers = pd.DataFrame(customers, columns=customer_columns)
@@ -152,6 +170,7 @@ df_stores = pd.DataFrame(stores, columns=store_columns)
 df_products = pd.DataFrame(products, columns=product_columns)
 df_sales = pd.DataFrame(sales, columns=sales_columns)
 df_date = pd.DataFrame(date_data, columns=date_columns)
+df_sales_targets = pd.DataFrame(sales_targets, columns=sales_target_columns)
 
 # Save the datasets to CSV files
 df_customers.to_csv('customers.csv', index=False)
@@ -159,5 +178,6 @@ df_stores.to_csv('store_details.csv', index=False)
 df_products.to_csv('products_data.csv', index=False)
 df_sales.to_csv('retail_sales_data.csv', index=False)
 df_date.to_csv('date.csv', index=False)
+df_sales_targets.to_csv('sales_targets.csv', index=False)
 
 print(f"Datasets generated and saved to CSV files successfully.")
