@@ -1,0 +1,301 @@
+Product ID,Product Name,Category,Subcategory,Supplier ID,Cost Price,Retail Price
+P001,Treadmills 301,Sports and Outdoors,Treadmills,SUP0039,17773.0,23147.87
+P002,Sunglasses 250,Fashion and Accessories,Sunglasses,SUP0028,48749.64,83684.12
+P003,Protein Powders 199,Health and Wellness,Protein Powders,SUP0026,39835.66,65550.83
+P004,Vitamins 488,Health and Wellness,Vitamins,SUP0019,33028.77,63383.12
+P005,Gardening Supplies 973,Home and Garden,Gardening Supplies,SUP0058,45311.41,56400.45
+P006,Gardening Supplies 748,Home and Garden,Gardening Supplies,SUP0053,8880.69,12874.57
+P007,Microwave Ovens 473,Home Appliances,Microwave Ovens,SUP0041,10699.59,12114.17
+P008,Tires 405,Automotive,Tires,SUP0040,10907.31,16570.93
+P009,Scarves 188,Fashion and Accessories,Scarves,SUP0044,23918.03,34985.85
+P0010,Graphic Novels 929,Books and Media,Graphic Novels,SUP0040,11993.08,16794.87
+P0011,Non-Fiction Books 165,Books and Media,Non-Fiction Books,SUP0035,47719.15,71072.01
+P0012,CDs 959,Books and Media,CDs,SUP0026,46148.27,91223.79
+P0013,Furniture 781,Home and Garden,Furniture,SUP0027,7416.46,11311.83
+P0014,Treadmills 211,Sports and Outdoors,Treadmills,SUP0060,936.86,1614.05
+P0015,BBQ Grills 677,Home and Garden,BBQ Grills,SUP0030,33324.41,39855.8
+P0016,Educational Toys 857,Toys and Games,Educational Toys,SUP0023,35493.25,58656.45
+P0017,Refrigerators 806,Home Appliances,Refrigerators,SUP0025,43981.09,48437.96
+P0018,Digital Cameras 307,Electronics,Digital Cameras,SUP0023,24624.19,37287.07
+P0019,Motorcycle Helmets 336,Automotive,Motorcycle Helmets,SUP0032,47621.44,85388.5
+P0020,Building Blocks 337,Toys and Games,Building Blocks,SUP0036,1623.97,2698.43
+P0021,Indoor Plants 615,Home and Garden,Indoor Plants,SUP005,15409.54,29800.43
+P0022,Video Games 624,Toys and Games,Video Games,SUP0065,8168.61,12913.2
+P0023,Electric Kettles 613,Home Appliances,Electric Kettles,SUP0065,25148.47,44732.06
+P0024,Furniture 125,Home and Garden,Furniture,SUP0013,43748.38,79693.05
+P0025,Lighting 503,Home and Garden,Lighting,SUP0048,24751.8,49229.68
+P0026,RC Cars 186,Toys and Games,RC Cars,SUP0041,14452.59,17599.42
+P0027,Magazines 284,Books and Media,Magazines,SUP0025,40252.99,49829.99
+P0028,BBQ Grills 640,Home and Garden,BBQ Grills,SUP0044,18148.65,30692.48
+P0029,Smartphones 255,Electronics,Smartphones,SUP0024,3567.61,5524.05
+P0030,Haircare Products 454,Health and Wellness,Haircare Products,SUP0015,32421.43,49099.38
+P0031,Haircare Products 225,Health and Wellness,Haircare Products,SUP0040,8227.93,9894.02
+P0032,Comic Books 432,Books and Media,Comic Books,SUP0044,4900.22,8184.57
+P0033,Non-Fiction Books 672,Books and Media,Non-Fiction Books,SUP0048,46791.18,52404.0
+P0034,eBooks 228,Books and Media,eBooks,SUP0038,14946.81,28736.01
+P0035,CDs 849,Books and Media,CDs,SUP0020,18352.83,24304.97
+P0036,Audiobooks 582,Books and Media,Audiobooks,SUP0051,35665.77,64753.76
+P0037,Scarves 163,Fashion and Accessories,Scarves,SUP0045,32671.83,50508.2
+P0038,Electric Kettles 179,Home Appliances,Electric Kettles,SUP0020,33236.66,56607.74
+P0039,Health Monitors 998,Health and Wellness,Health Monitors,SUP0040,1791.73,3208.51
+P0040,BBQ Grills 924,Home and Garden,BBQ Grills,SUP0030,35988.75,45914.11
+P0041,Coffee Makers 885,Home Appliances,Coffee Makers,SUP0010,19855.48,26923.8
+P0042,Vacuum Cleaners 651,Home Appliances,Vacuum Cleaners,SUP006,14478.07,16754.38
+P0043,Bedding 496,Home and Garden,Bedding,SUP0032,23120.71,27394.88
+P0044,Car Tools 206,Automotive,Car Tools,SUP0060,20751.83,23219.06
+P0045,Hiking Boots 320,Sports and Outdoors,Hiking Boots,SUP005,16821.17,31411.52
+P0046,Shoes 238,Fashion and Accessories,Shoes,SUP0031,1575.37,1749.18
+P0047,Running Shoes 943,Sports and Outdoors,Running Shoes,SUP0035,15794.35,22375.85
+P0048,Skincare Products 184,Health and Wellness,Skincare Products,SUP0064,11346.28,21235.71
+P0049,Coffee Makers 907,Home Appliances,Coffee Makers,SUP0031,46113.74,59211.85
+P0050,Laptops 916,Electronics,Laptops,SUP004,10978.4,14931.93
+P0051,Essential Oils 649,Health and Wellness,Essential Oils,SUP0060,21519.74,31659.37
+P0052,Smartphones 882,Electronics,Smartphones,SUP0058,30558.22,44547.81
+P0053,Dolls 188,Toys and Games,Dolls,SUP0046,46669.04,68284.83
+P0054,Running Shoes 583,Sports and Outdoors,Running Shoes,SUP0031,38417.85,46364.88
+P0055,Gardening Supplies 734,Home and Garden,Gardening Supplies,SUP0059,18006.41,35273.08
+P0056,Jewelry 112,Fashion and Accessories,Jewelry,SUP0045,7645.63,8648.41
+P0057,Digital Cameras 789,Electronics,Digital Cameras,SUP0015,43194.81,80130.59
+P0058,Car Accessories 288,Automotive,Car Accessories,SUP0019,19396.4,35323.42
+P0059,Vitamins 758,Health and Wellness,Vitamins,SUP0013,40854.23,55808.49
+P0060,Digital Cameras 670,Electronics,Digital Cameras,SUP0016,5854.69,9441.61
+P0061,Printers 326,Electronics,Printers,SUP008,26134.1,40192.46
+P0062,Dumbbells 466,Sports and Outdoors,Dumbbells,SUP0026,5087.34,6382.74
+P0063,Gardening Supplies 721,Home and Garden,Gardening Supplies,SUP004,1166.6,2267.18
+P0064,Hats 461,Fashion and Accessories,Hats,SUP0032,1596.53,3184.53
+P0065,Indoor Plants 919,Home and Garden,Indoor Plants,SUP0012,13091.86,21499.27
+P0066,Garden Tools 961,Home and Garden,Garden Tools,SUP0013,22073.24,26731.28
+P0067,Microwave Ovens 973,Home Appliances,Microwave Ovens,SUP0013,22003.93,39323.37
+P0068,Stuffed Animals 501,Toys and Games,Stuffed Animals,SUP0056,45144.83,66666.91
+P0069,Gaming Consoles 399,Electronics,Gaming Consoles,SUP0032,8699.24,15602.76
+P0070,Blenders 208,Home Appliances,Blenders,SUP0044,44003.39,76991.09
+P0071,Microwave Ovens 641,Home Appliances,Microwave Ovens,SUP0064,49934.86,86353.59
+P0072,Fiction Books 177,Books and Media,Fiction Books,SUP0064,9509.56,16646.52
+P0073,Car Electronics 342,Automotive,Car Electronics,SUP0035,20667.27,32767.63
+P0074,CDs 171,Books and Media,CDs,SUP001,16998.98,22479.08
+P0075,Air Purifiers 997,Home Appliances,Air Purifiers,SUP005,5497.44,7521.71
+P0076,Bedding 114,Home and Garden,Bedding,SUP0018,11754.1,23217.73
+P0077,Indoor Plants 597,Home and Garden,Indoor Plants,SUP008,42027.95,69551.47
+P0078,Jewelry 420,Fashion and Accessories,Jewelry,SUP0055,37825.38,65587.93
+P0079,Garden Tools 123,Home and Garden,Garden Tools,SUP0055,21196.43,26579.21
+P0080,Massage Devices 116,Health and Wellness,Massage Devices,SUP0019,15646.12,26126.06
+P0081,Kitchen Tools 165,Home and Garden,Kitchen Tools,SUP002,36201.9,59945.59
+P0082,Health Monitors 853,Health and Wellness,Health Monitors,SUP003,39641.53,78832.42
+P0083,Printers 829,Electronics,Printers,SUP0058,11137.87,14762.68
+P0084,Stuffed Animals 683,Toys and Games,Stuffed Animals,SUP0012,40712.16,47045.9
+P0085,Home Assistants 139,Electronics,Home Assistants,SUP003,25239.66,49582.68
+P0086,Bedding 610,Home and Garden,Bedding,SUP0044,29377.45,41162.97
+P0087,Air Purifiers 976,Home Appliances,Air Purifiers,SUP0022,24646.85,36231.37
+P0088,Refrigerators 487,Home Appliances,Refrigerators,SUP0010,22271.02,36815.16
+P0089,Vacuum Cleaners 345,Home Appliances,Vacuum Cleaners,SUP0052,45468.34,76611.82
+P0090,Routers 874,Electronics,Routers,SUP001,27585.26,42807.6
+P0091,Belts 549,Fashion and Accessories,Belts,SUP0048,18961.25,34460.99
+P0092,Shoes 802,Fashion and Accessories,Shoes,SUP0055,3302.08,4374.39
+P0093,GPS Devices 190,Automotive,GPS Devices,SUP0030,37272.38,58761.18
+P0094,Gaming Consoles 366,Electronics,Gaming Consoles,SUP0062,16012.43,18263.8
+P0095,BBQ Grills 136,Home and Garden,BBQ Grills,SUP0051,42165.63,48060.15
+P0096,Motorcycle Gear 247,Automotive,Motorcycle Gear,SUP0026,1626.67,2540.14
+P0097,Car Accessories 169,Automotive,Car Accessories,SUP0011,40088.69,66820.85
+P0098,Bedding 544,Home and Garden,Bedding,SUP009,31725.69,43684.48
+P0099,Treadmills 419,Sports and Outdoors,Treadmills,SUP0010,1107.47,1429.11
+P00100,Yoga Accessories 432,Health and Wellness,Yoga Accessories,SUP006,38954.02,70987.39
+P00101,Coffee Makers 573,Home Appliances,Coffee Makers,SUP0049,18224.52,29452.89
+P00102,Routers 449,Electronics,Routers,SUP0026,41758.91,73725.06
+P00103,Home Assistants 947,Electronics,Home Assistants,SUP0042,10859.27,17769.77
+P00104,Action Figures 231,Toys and Games,Action Figures,SUP0027,40042.96,46355.54
+P00105,Wearable Devices 277,Electronics,Wearable Devices,SUP0048,49379.61,98619.69
+P00106,Coffee Makers 802,Home Appliances,Coffee Makers,SUP0039,12952.41,23629.18
+P00107,Car Tools 623,Automotive,Car Tools,SUP0039,19068.99,30386.86
+P00108,Shoes 883,Fashion and Accessories,Shoes,SUP004,43251.54,81223.45
+P00109,Gardening Supplies 952,Home and Garden,Gardening Supplies,SUP0027,16237.3,23242.83
+P00110,Tires 918,Automotive,Tires,SUP008,22524.09,38654.69
+P00111,Jewelry 344,Fashion and Accessories,Jewelry,SUP0041,36339.82,56141.82
+P00112,Car Care Products 434,Automotive,Car Care Products,SUP005,5041.8,8914.98
+P00113,Bedding 423,Home and Garden,Bedding,SUP0019,42214.51,62631.47
+P00114,Jewelry 632,Fashion and Accessories,Jewelry,SUP0057,5123.44,6125.55
+P00115,Kitchen Tools 162,Home and Garden,Kitchen Tools,SUP0021,44438.15,64568.7
+P00116,Hiking Boots 515,Sports and Outdoors,Hiking Boots,SUP0010,26404.64,35695.21
+P00117,Yoga Mats 264,Sports and Outdoors,Yoga Mats,SUP0026,33748.3,41614.45
+P00118,Supplements 650,Health and Wellness,Supplements,SUP0052,28286.7,32991.99
+P00119,Motorcycle Jackets 734,Automotive,Motorcycle Jackets,SUP0056,31633.05,42098.23
+P00120,Blenders 188,Home Appliances,Blenders,SUP0050,34736.36,47497.09
+P00121,Sunglasses 237,Fashion and Accessories,Sunglasses,SUP0021,23431.68,30884.13
+P00122,Motorcycle Jackets 863,Automotive,Motorcycle Jackets,SUP0058,19554.99,38524.19
+P00123,Air Purifiers 148,Home Appliances,Air Purifiers,SUP0050,28403.96,48196.76
+P00124,Electric Kettles 521,Home Appliances,Electric Kettles,SUP0030,42948.16,81559.12
+P00125,Haircare Products 306,Health and Wellness,Haircare Products,SUP007,13670.13,21297.07
+P00126,Supplements 573,Health and Wellness,Supplements,SUP0011,43155.64,76012.73
+P00127,Watches 207,Fashion and Accessories,Watches,SUP0058,41255.77,50672.67
+P00128,DVDs 916,Books and Media,DVDs,SUP0049,25813.13,34202.02
+P00129,Supplements 798,Health and Wellness,Supplements,SUP0054,46897.82,84632.38
+P00130,Gaming Consoles 545,Electronics,Gaming Consoles,SUP008,30669.81,44127.51
+P00131,Fitness Equipment 877,Health and Wellness,Fitness Equipment,SUP0050,36640.53,67921.24
+P00132,Laptops 979,Electronics,Laptops,SUP0063,10081.09,15659.56
+P00133,Video Games 175,Toys and Games,Video Games,SUP0053,23925.94,34354.35
+P00134,Headphones 266,Electronics,Headphones,SUP0046,27846.83,33972.49
+P00135,Educational Toys 679,Toys and Games,Educational Toys,SUP0048,11981.11,18400.55
+P00136,Blenders 962,Home Appliances,Blenders,SUP0017,43375.95,75080.63
+P00137,Car Seats 194,Automotive,Car Seats,SUP0058,33925.78,46110.88
+P00138,Tires 102,Automotive,Tires,SUP0040,49467.4,70265.73
+P00139,Home Assistants 666,Electronics,Home Assistants,SUP0034,39497.83,59733.28
+P00140,Protein Powders 138,Health and Wellness,Protein Powders,SUP0056,18000.92,22189.84
+P00141,Water Bottles 876,Sports and Outdoors,Water Bottles,SUP0053,41337.46,77783.34
+P00142,Tires 619,Automotive,Tires,SUP0011,17384.61,30005.65
+P00143,Routers 362,Electronics,Routers,SUP0014,4662.32,6806.84
+P00144,Scarves 539,Fashion and Accessories,Scarves,SUP0050,1288.76,2070.17
+P00145,Motorcycle Gear 291,Automotive,Motorcycle Gear,SUP0018,30463.18,36847.54
+P00146,Board Games 791,Toys and Games,Board Games,SUP0046,24827.33,42363.96
+P00147,Stuffed Animals 868,Toys and Games,Stuffed Animals,SUP0011,43693.78,64047.5
+P00148,Vinyl Records 381,Books and Media,Vinyl Records,SUP0045,27303.05,47649.7
+P00149,Tires 133,Automotive,Tires,SUP0010,47224.72,85679.68
+P00150,Blenders 457,Home Appliances,Blenders,SUP0054,13805.32,26495.23
+P00151,Outdoor Furniture 920,Home and Garden,Outdoor Furniture,SUP0017,40459.34,56113.96
+P00152,Bluetooth Speakers 394,Electronics,Bluetooth Speakers,SUP0020,48151.26,62369.6
+P00153,Garden Tools 820,Home and Garden,Garden Tools,SUP0055,2794.72,4624.21
+P00154,Air Purifiers 579,Home Appliances,Air Purifiers,SUP0037,34999.4,43163.36
+P00155,Graphic Novels 142,Books and Media,Graphic Novels,SUP004,44731.19,79985.82
+P00156,Vinyl Records 145,Books and Media,Vinyl Records,SUP0018,37818.32,51236.38
+P00157,Wearable Devices 357,Electronics,Wearable Devices,SUP0022,41648.1,48649.36
+P00158,Board Games 338,Toys and Games,Board Games,SUP0041,13556.49,23966.5
+P00159,Car Care Products 902,Automotive,Car Care Products,SUP001,15792.68,19778.42
+P00160,Home Decor 863,Home and Garden,Home Decor,SUP0051,35112.84,57346.39
+P00161,Blenders 196,Home Appliances,Blenders,SUP0022,42527.08,60443.27
+P00162,Refrigerators 898,Home Appliances,Refrigerators,SUP0025,30322.16,45943.04
+P00163,Lighting 632,Home and Garden,Lighting,SUP0023,6820.16,8080.51
+P00164,Smartphones 287,Electronics,Smartphones,SUP0053,47626.27,75440.93
+P00165,Laptops 249,Electronics,Laptops,SUP0054,24656.14,30989.2
+P00166,Bicycles 109,Sports and Outdoors,Bicycles,SUP0057,15371.69,21593.59
+P00167,BBQ Grills 212,Home and Garden,BBQ Grills,SUP0065,17419.27,27599.0
+P00168,Tires 347,Automotive,Tires,SUP001,29252.47,54663.1
+P00169,Vacuum Cleaners 992,Home Appliances,Vacuum Cleaners,SUP0031,27493.66,40552.89
+P00170,Sunglasses 832,Fashion and Accessories,Sunglasses,SUP003,48643.05,72519.61
+P00171,Scarves 437,Fashion and Accessories,Scarves,SUP0058,47274.99,73046.64
+P00172,Car Electronics 142,Automotive,Car Electronics,SUP005,49706.52,59074.75
+P00173,Washing Machines 952,Home Appliances,Washing Machines,SUP0062,42750.53,56519.88
+P00174,Bedding 448,Home and Garden,Bedding,SUP0027,38028.31,71187.88
+P00175,Handbags 930,Fashion and Accessories,Handbags,SUP002,34656.32,68053.79
+P00176,Car Care Products 569,Automotive,Car Care Products,SUP0023,37021.88,42081.57
+P00177,Air Purifiers 439,Home Appliances,Air Purifiers,SUP0053,47529.27,54009.03
+P00178,Gaming Consoles 770,Electronics,Gaming Consoles,SUP0015,16774.05,28063.42
+P00179,Digital Cameras 882,Electronics,Digital Cameras,SUP008,14977.42,20361.82
+P00180,Fitness Trackers 199,Sports and Outdoors,Fitness Trackers,SUP004,9217.29,16983.55
+P00181,Water Heaters 199,Home Appliances,Water Heaters,SUP0039,28172.18,44751.78
+P00182,Bluetooth Speakers 179,Electronics,Bluetooth Speakers,SUP0032,41877.17,74287.82
+P00183,Air Purifiers 803,Home Appliances,Air Purifiers,SUP004,19835.14,37358.3
+P00184,Microwave Ovens 647,Home Appliances,Microwave Ovens,SUP0057,20027.14,31500.93
+P00185,Stuffed Animals 467,Toys and Games,Stuffed Animals,SUP0017,16449.15,25852.87
+P00186,Gardening Supplies 280,Home and Garden,Gardening Supplies,SUP0032,37271.75,42416.31
+P00187,Car Care Products 812,Automotive,Car Care Products,SUP0012,33355.32,56079.43
+P00188,Coffee Makers 135,Home Appliances,Coffee Makers,SUP0057,33943.02,42870.25
+P00189,Puzzles 173,Toys and Games,Puzzles,SUP005,48661.05,55017.77
+P00190,Motorcycle Jackets 251,Automotive,Motorcycle Jackets,SUP0019,16667.88,30857.41
+P00191,LEGO Sets 935,Toys and Games,LEGO Sets,SUP0060,39074.38,44202.34
+P00192,Tires 161,Automotive,Tires,SUP0063,2086.75,4071.83
+P00193,Running Shoes 415,Sports and Outdoors,Running Shoes,SUP008,21140.94,30433.71
+P00194,Board Games 447,Toys and Games,Board Games,SUP004,26915.31,51703.78
+P00195,CDs 872,Books and Media,CDs,SUP0045,14115.61,17429.75
+P00196,Printers 540,Electronics,Printers,SUP005,43751.53,86434.01
+P00197,Garden Tools 927,Home and Garden,Garden Tools,SUP0046,10120.53,11712.34
+P00198,eBooks 655,Books and Media,eBooks,SUP0043,39047.55,66546.21
+P00199,Hats 486,Fashion and Accessories,Hats,SUP0021,32579.86,60719.64
+P00200,Tires 341,Automotive,Tires,SUP0042,19429.11,29999.1
+P00201,RC Cars 696,Toys and Games,RC Cars,SUP0025,20728.62,23981.59
+P00202,BBQ Grills 287,Home and Garden,BBQ Grills,SUP0012,26892.81,31553.42
+P00203,eBooks 702,Books and Media,eBooks,SUP0054,7552.63,13238.63
+P00204,Furniture 824,Home and Garden,Furniture,SUP0023,22107.39,35379.44
+P00205,Yoga Accessories 237,Health and Wellness,Yoga Accessories,SUP006,31327.56,43055.36
+P00206,Wearable Devices 813,Electronics,Wearable Devices,SUP0032,47743.18,65138.44
+P00207,Treadmills 215,Sports and Outdoors,Treadmills,SUP0019,23374.3,46252.09
+P00208,Gaming Consoles 688,Electronics,Gaming Consoles,SUP0050,31364.98,61564.87
+P00209,Board Games 649,Toys and Games,Board Games,SUP0035,8772.08,12289.21
+P00210,Sports Apparel 462,Sports and Outdoors,Sports Apparel,SUP0052,45265.49,70185.69
+P00211,Yoga Accessories 893,Health and Wellness,Yoga Accessories,SUP0022,18322.64,28070.52
+P00212,Dumbbells 649,Sports and Outdoors,Dumbbells,SUP0062,3428.54,4818.73
+P00213,Hiking Boots 757,Sports and Outdoors,Hiking Boots,SUP0010,35477.02,50159.51
+P00214,Fiction Books 825,Books and Media,Fiction Books,SUP0040,6238.88,11061.16
+P00215,Motorcycle Helmets 659,Automotive,Motorcycle Helmets,SUP0010,49067.75,74527.86
+P00216,Action Figures 544,Toys and Games,Action Figures,SUP0018,6620.73,10771.5
+P00217,Non-Fiction Books 587,Books and Media,Non-Fiction Books,SUP0043,26076.34,34806.61
+P00218,Car Electronics 195,Automotive,Car Electronics,SUP0065,23262.31,37671.33
+P00219,Garden Tools 299,Home and Garden,Garden Tools,SUP0046,41538.38,73256.83
+P00220,LEGO Sets 462,Toys and Games,LEGO Sets,SUP0017,31427.47,49243.85
+P00221,Fiction Books 695,Books and Media,Fiction Books,SUP0015,24133.59,29452.99
+P00222,Home Assistants 448,Electronics,Home Assistants,SUP006,20435.7,30599.5
+P00223,Magazines 240,Books and Media,Magazines,SUP0025,47369.64,74155.7
+P00224,Washing Machines 649,Home Appliances,Washing Machines,SUP0028,2250.86,3438.43
+P00225,Hiking Boots 458,Sports and Outdoors,Hiking Boots,SUP005,31396.59,49584.75
+P00226,Educational Toys 551,Toys and Games,Educational Toys,SUP0031,29966.88,53443.4
+P00227,Hats 532,Fashion and Accessories,Hats,SUP0048,35052.1,59444.11
+P00228,Air Purifiers 597,Home Appliances,Air Purifiers,SUP0022,2196.02,4153.6
+P00229,Smartphones 779,Electronics,Smartphones,SUP0038,12347.43,13626.55
+P00230,Building Blocks 456,Toys and Games,Building Blocks,SUP003,16532.68,24520.04
+P00231,Protein Powders 462,Health and Wellness,Protein Powders,SUP0039,29425.42,56178.09
+P00232,Graphic Novels 157,Books and Media,Graphic Novels,SUP0014,35486.55,41252.28
+P00233,Handbags 625,Fashion and Accessories,Handbags,SUP0026,29202.06,45842.52
+P00234,Hats 623,Fashion and Accessories,Hats,SUP0061,7969.49,14713.28
+P00235,Vacuum Cleaners 575,Home Appliances,Vacuum Cleaners,SUP0037,24399.03,33086.82
+P00236,Headphones 143,Electronics,Headphones,SUP0064,11510.07,17680.19
+P00237,Yoga Mats 591,Sports and Outdoors,Yoga Mats,SUP0017,38291.17,69570.45
+P00238,Yoga Mats 321,Sports and Outdoors,Yoga Mats,SUP0055,9313.62,15004.14
+P00239,Educational Toys 291,Toys and Games,Educational Toys,SUP0044,43751.53,73230.65
+P00240,Magazines 755,Books and Media,Magazines,SUP0038,42845.56,53599.63
+P00241,Stuffed Animals 738,Toys and Games,Stuffed Animals,SUP0039,27659.73,53356.18
+P00242,Treadmills 200,Sports and Outdoors,Treadmills,SUP0029,34374.12,56488.59
+P00243,Protein Powders 419,Health and Wellness,Protein Powders,SUP0038,24127.45,43790.68
+P00244,Yoga Mats 468,Sports and Outdoors,Yoga Mats,SUP004,39682.59,73857.51
+P00245,Essential Oils 130,Health and Wellness,Essential Oils,SUP0027,32665.2,48254.33
+P00246,GPS Devices 451,Automotive,GPS Devices,SUP0041,44272.89,49893.67
+P00247,Supplements 387,Health and Wellness,Supplements,SUP0022,34105.63,53576.08
+P00248,Puzzles 736,Toys and Games,Puzzles,SUP0048,47937.1,92378.04
+P00249,Indoor Plants 629,Home and Garden,Indoor Plants,SUP0030,26045.6,35614.72
+P00250,Headphones 537,Electronics,Headphones,SUP0063,25260.76,45761.46
+P00251,Garden Tools 470,Home and Garden,Garden Tools,SUP0039,47632.25,90381.45
+P00252,Air Purifiers 936,Home Appliances,Air Purifiers,SUP0060,48354.97,69636.95
+P00253,LEGO Sets 943,Toys and Games,LEGO Sets,SUP003,44002.61,58488.04
+P00254,RC Cars 822,Toys and Games,RC Cars,SUP006,23167.31,30967.5
+P00255,Vitamins 900,Health and Wellness,Vitamins,SUP0031,28808.81,38673.13
+P00256,eBooks 609,Books and Media,eBooks,SUP0046,14891.19,24573.34
+P00257,Dishwashers 869,Home Appliances,Dishwashers,SUP0041,7512.29,9650.04
+P00258,Coffee Makers 886,Home Appliances,Coffee Makers,SUP005,1207.25,1804.5
+P00259,Coffee Makers 637,Home Appliances,Coffee Makers,SUP0048,5593.63,6870.47
+P00260,Fiction Books 380,Books and Media,Fiction Books,SUP006,36037.74,55841.75
+P00261,Air Purifiers 227,Home Appliances,Air Purifiers,SUP0042,26590.2,52519.1
+P00262,Microwave Ovens 139,Home Appliances,Microwave Ovens,SUP0038,42927.04,57834.22
+P00263,Laptops 443,Electronics,Laptops,SUP009,43139.85,61407.94
+P00264,Refrigerators 841,Home Appliances,Refrigerators,SUP0028,47703.97,92164.71
+P00265,Water Heaters 756,Home Appliances,Water Heaters,SUP0050,21185.36,30015.76
+P00266,Car Seats 162,Automotive,Car Seats,SUP0011,29768.59,39649.34
+P00267,Jackets 216,Fashion and Accessories,Jackets,SUP0031,13918.11,20325.26
+P00268,LEGO Sets 518,Toys and Games,LEGO Sets,SUP0051,1363.04,1669.39
+P00269,Jewelry 234,Fashion and Accessories,Jewelry,SUP0015,13776.06,23081.69
+P00270,Essential Oils 803,Health and Wellness,Essential Oils,SUP0053,19524.97,23307.58
+P00271,Sunglasses 537,Fashion and Accessories,Sunglasses,SUP004,24701.73,39147.31
+P00272,Digital Cameras 735,Electronics,Digital Cameras,SUP0040,40692.82,49195.46
+P00273,Coffee Makers 679,Home Appliances,Coffee Makers,SUP0050,6760.27,10768.0
+P00274,Educational Toys 917,Toys and Games,Educational Toys,SUP0047,23259.21,35890.73
+P00275,LEGO Sets 189,Toys and Games,LEGO Sets,SUP0028,20588.25,35260.5
+P00276,Dumbbells 295,Sports and Outdoors,Dumbbells,SUP0041,29472.13,33023.32
+P00277,Educational Toys 885,Toys and Games,Educational Toys,SUP005,11790.57,13152.45
+P00278,Audiobooks 502,Books and Media,Audiobooks,SUP0046,3988.38,4604.01
+P00279,BBQ Grills 354,Home and Garden,BBQ Grills,SUP002,47726.48,79806.34
+P00280,Skincare Products 531,Health and Wellness,Skincare Products,SUP0021,44157.26,55094.56
+P00281,eBooks 193,Books and Media,eBooks,SUP0047,13961.78,24217.44
+P00282,Skincare Products 858,Health and Wellness,Skincare Products,SUP0029,40800.02,67497.92
+P00283,Car Care Products 478,Automotive,Car Care Products,SUP0053,23123.72,31259.47
+P00284,Jackets 341,Fashion and Accessories,Jackets,SUP0049,4504.03,8059.81
+P00285,Yoga Mats 600,Sports and Outdoors,Yoga Mats,SUP0027,38672.86,61021.61
+P00286,Puzzles 183,Toys and Games,Puzzles,SUP0011,40444.41,61012.71
+P00287,Protein Powders 862,Health and Wellness,Protein Powders,SUP0034,10654.64,17819.54
+P00288,Camping Gear 523,Sports and Outdoors,Camping Gear,SUP0013,18493.36,32770.8
+P00289,Furniture 699,Home and Garden,Furniture,SUP0018,15962.48,28226.85
+P00290,Scarves 416,Fashion and Accessories,Scarves,SUP003,25200.05,40928.16
+P00291,Motorcycle Helmets 514,Automotive,Motorcycle Helmets,SUP0049,42726.45,67446.92
+P00292,Bluetooth Speakers 458,Electronics,Bluetooth Speakers,SUP006,34461.42,59038.07
+P00293,Laptops 777,Electronics,Laptops,SUP0040,2983.19,5825.33
+P00294,Fitness Trackers 966,Sports and Outdoors,Fitness Trackers,SUP0018,2582.45,4439.51
+P00295,Health Monitors 987,Health and Wellness,Health Monitors,SUP0064,49378.52,89474.67
+P00296,Motorcycle Gear 562,Automotive,Motorcycle Gear,SUP0037,27369.89,46445.05
+P00297,Electric Kettles 162,Home Appliances,Electric Kettles,SUP0047,17344.74,20837.95
+P00298,Motorcycle Gear 765,Automotive,Motorcycle Gear,SUP0054,16630.93,24028.07
+P00299,Puzzles 309,Toys and Games,Puzzles,SUP0039,27653.75,39186.74
+P00300,Haircare Products 270,Health and Wellness,Haircare Products,SUP0015,46892.34,81213.95
